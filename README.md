@@ -123,10 +123,9 @@ The notebook saves the trained model as `iris_classifier.joblib` when its model-
 
 ### 1. Clone the repository
 
-Replace `YOUR-USERNAME` with your GitHub username:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/iris-flower-classification.git
+git clone https://github.com/lyebaqamar/iris-flower-classification.git
 cd iris-flower-classification
 ```
 
@@ -175,13 +174,6 @@ In the recorded run included with this project, the selected Support Vector Mach
 - Test accuracy depends on the data split and model configuration.
 - The model uses numerical measurements; it does not classify flower photographs.
 
-## References
-
-1. Kaggle. [Iris Species Dataset](https://www.kaggle.com/uciml/iris).
-2. Scikit-learn. [Official Documentation](https://scikit-learn.org/stable/).
-3. Pandas. [Official Documentation](https://pandas.pydata.org/docs/).
-4. Matplotlib. [Official Documentation](https://matplotlib.org/stable/).
-5. Seaborn. [Official Documentation](https://seaborn.pydata.org/).
 
 ---
 
